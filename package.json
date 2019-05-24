@@ -1,11 +1,11 @@
 {
   "name": "gatsby-starter-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "React Native Club - Everything React Native Related",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Perttu Lähteenlahti <perttu@lahteenlahti.fi>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/plahteenlahti/react-native.club/issues"
   },
   "dependencies": {
     "gatsby": "^2.7.1",
