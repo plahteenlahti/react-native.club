@@ -1,6 +1,0 @@
----
-type: weekly
-title: Hello World Weekly
-date: "2015-05-01T22:12:03.284Z"
-description: "as"
----
