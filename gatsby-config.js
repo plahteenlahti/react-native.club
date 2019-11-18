@@ -3,9 +3,9 @@ module.exports = {
     title: `React Native Club`,
     name: `RNC`,
     siteUrl: `https://react-native.club`,
-    description: `Hello from React Native Club, the one stop for React Native related articles and resources.`,
+    description: `Hello from React Native Club, the one stop shop for React Native related articles and resources.`,
     hero: {
-      heading: `Hello from React Native Club, the one stop for React Native related articles and resources.`,
+      heading: `Hello from React Native Club, the one stop shop for React Native related articles and resources.`,
       maxWidth: 652,
     },
     social: [
