@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `React Native Club`,
-    name: `RNC`,
+    name: `React Native Club`,
     siteUrl: `https://react-native.club`,
     description: `Hello from React Native Club, the one stop shop for React Native related articles and resources.`,
     hero: {
@@ -44,7 +44,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `React Native Club`,
-        short_name: `RNC`,
+        short_name: `RN Club`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
